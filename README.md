@@ -30,6 +30,6 @@ minimize the rate of useless phone calls. Suggest a strategy they should employ 
 
 
 ## Technologies Used
-•⁠  ⁠numpy - version 1.23.5
-•⁠  ⁠pandas - version 1.5.3
+•⁠  ⁠numpy - version 1.23.5</br>
+•⁠  ⁠pandas - version 1.5.3</br>
 •⁠  Matlplotlib
